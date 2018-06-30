@@ -1,0 +1,96 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Quiz App</string>
+    <!-- These are the codes for the XML file -->
+    <!-- Introduction -->
+    <string name="image_description">A picture showcasing different superheroes</string>
+    <string name="introduction">Welcome to the Comic Book Quick Quiz App!!</string>
+
+    <!-- Brief Description -->
+    <string name="description_a">This short quiz aims at testing your knowledge on some of the most common superheroes from marvel and DC.</string>
+    <string name="description_b">Please endeavour to finish the quiz before looking up the answers. Click the submit button below when done</string>
+    <string name="description_c">All right then, lets begin!!!</string>
+
+    <!-- question One strings -->
+    <string name="question1">Question 1</string>
+    <string name="question1_question">What type of technology is on tony\'s chest and powers the iron man?</string>
+    <string name="question1_optionA">Mass fusion technology</string>
+    <string name="question1_optionB">Arc reactor technology</string>
+    <string name="question1_optionC">Liquid cooling technology</string>
+
+    <!-- Question two strings -->
+    <string name="question2">Question 2</string>
+    <string name="question2_question">In Thor comics, what event signifies the end of the world?</string>
+    <string name="question2_optionA">Valhalla</string>
+    <string name="question2_optionB">Yggdrasil</string>
+    <string name="question2_optionC">Ragnarok</string>
+
+    <!-- Question three strings -->
+    <string name="question3">Question 3</string>
+    <string name="question3_question">Wonder Woman carries an assortment of weapons into battle. pick the all the options that apply:</string>
+    <string name="question3_optionA">The blades of fury</string>
+    <string name="question3_optionB">The purple healing ray</string>
+    <string name="question3_optionC">The royal tiara</string>
+    <string name="question3_optionD">The lasso of truth</string>
+
+    <!-- Question four strings -->
+    <string name="question4">Question 4</string>
+    <string name="question4_question">What was the original shape of Captain America\'s shield?</string>
+    <string name="question4_optionA">Badge shaped</string>
+    <string name="question4_optionB">Circle shaped</string>
+    <string name="question4_optionC">Star shaped</string>
+
+    <!-- Question five strings -->
+    <string name="question5">Question 5</string>
+    <string name="question5_question">Which Spider-Man villain dresses and acts like a 1920s gangster?</string>
+    <string name="question5_optionA">Kingpin</string>
+    <string name="question5_optionB">Hammerhead</string>
+    <string name="question5_optionC">Venom</string>
+
+    <!-- Question six strings -->
+    <string name="question6">Question 6</string>
+    <string name="question6_question">Superman has had a lot of crazy powers during the golden age of comics. Pick all the options that apply</string>
+    <string name="question6_optionA">Super magnetic touch</string>
+    <string name="question6_optionB">Super body switch</string>
+    <string name="question6_optionC">telepathy</string>
+    <string name="question6_optionD">Super dreaming</string>
+
+    <!-- Question seven strings -->
+    <string name="question7">Question 7</string>
+    <string name="question7_question">The original Flash gained his superpowers through exposure to what?</string>
+    <string name="question7_optionA">Lightning strike</string>
+    <string name="question7_optionB">Gamma radiation</string>
+    <string name="question7_optionC">Hard water</string>
+
+    <!-- Question eight strings -->
+    <string name="question8">Question 8</string>
+    <string name="question8_question">Over the years, The Incredible Hulk has acquired many nicknames, which of the following is NOT one of them?</string>
+    <string name="question8_optionA">Purple pants</string>
+    <string name="question8_optionB">Jade jaws</string>
+    <string name="question8_optionC">Ol\' greenskin</string>
+
+    <!-- Question nine strings -->
+    <string name="question9">Question 9</string>
+    <string name="question9_question">Sector 2814 has the Highest number of green lanterns. Pick all the options that apply</string>
+    <string name="question9_optionA">Mike Jefferson</string>
+    <string name="question9_optionB">Hal Jordan</string>
+    <string name="question9_optionC">Jessica Cruz</string>
+    <string name="question9_optionD">Alan Scott</string>
+
+    <!-- Question ten strings -->
+    <string name="question10">Question 10</string>
+    <string name="question10_question">During the events of Darkseid War in the new 52, Batman sat on the Mobius chair and asked it the identity of the Joker. What was the chair\'s answer?</string>
+    <string name="question10_hint">Answer</string>
+    <string name="submit">Submit</string>
+
+    <!-- Strings in Java section -->
+
+    <!-- String poor -->
+    <string name="poor">You scored <xliff:g id="scoreCounter" example="0">%1$d</xliff:g> out of <xliff:g id="total" example="0">%2$d</xliff:g>. keep trying</string>
+
+    <!-- String good -->
+    <string name="good">You scored <xliff:g id="scoreCounter" example="0">%1$d</xliff:g> out of <xliff:g id="total" example="0">%2$d</xliff:g>. Almost There!</string>
+
+    <!-- String excellent -->
+    <string name="excellent">You scored <xliff:g id="scoreCounter" example="0">%1$d</xliff:g> out of <xliff:g id="total" example="0">%2$d</xliff:g>. EXCELSIOR</string>
+
+</resources>
